@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: EEHPC, UMBC
+// Engineer: Morteza Hosseini
 // 
 // Create Date: 12/02/2017 10:22:30 AM
 // Design Name: 
